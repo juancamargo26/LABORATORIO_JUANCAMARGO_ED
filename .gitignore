@@ -1,0 +1,13 @@
+# Compilados Java
+bin/
+*.class
+
+# Artefactos intermedios del informe (el PDF final SÍ se versiona)
+informe/informe.html
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
