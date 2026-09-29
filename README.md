@@ -2,7 +2,7 @@
 
 Tarea individual — **Estructuras de Datos 2026-2**
 Profesor: David Herrera · Monitora: Ángela Camila Siabato Londoño
-Estudiante: **Diana Carolina Vásquez Gutiérrez**
+Estudiante: **Juan Diego Camargo**
 
 Implementación desde cero (sin librerías de estructuras de datos) de:
 
